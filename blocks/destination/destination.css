@@ -1,0 +1,14 @@
+.destination-wrapper{
+   display: flex;
+   height: 100%;
+   position: relative;
+   font-size: 16px;
+   padding-top: 20px;
+   color: #5c0931 !important;
+} 
+
+.destination-wrapper p b {
+    font-size: larger;
+    font-weight: bolder;
+}
+
